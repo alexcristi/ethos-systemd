@@ -10,4 +10,4 @@ etcd-set /images/dd-agent-mesos-slave   "index.docker.io/adobeplatform/docker-dd
 etcd-set /images/dd-agent-proxy         "index.docker.io/behance/docker-dd-agent-proxy:latest"
 
 # TODO: remove the keys above as they are not needed anymore
-etcd-set /images/ethos-dd-agent         "index.docker.io/adobeplatform/ethos-dd-agent:v1.0.3"
+etcd-set /images/ethos-dd-agent         "index.docker.io/adobeplatform/ethos-dd-agent:v1.0"
